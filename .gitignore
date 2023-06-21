@@ -1,4 +1,8 @@
 raw_data/
 .ipynb_checkpoints/
 *.ipynb
+<<<<<<< HEAD
+.DS_Store/
+=======
 .env
+>>>>>>> master
